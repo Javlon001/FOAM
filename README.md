@@ -9,7 +9,4 @@ This project aims to implement the Mean-Variance model to construct optimal port
 
 ---
 ## Results
-![Alt](./Analysis/stock_weights_plot.png)
 
----
-![Alt](./Analysis/efficient_frontier.png)
