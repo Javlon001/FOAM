@@ -6,3 +6,10 @@ Risk and Return! These are two major matrics every investor takes into considera
 ---
 ## Data and Methodology
 This project aims to implement the Mean-Variance model to construct optimal portfolio from 20 assets given in the data. The [DATA](./data/data.xlsx) is firstly processed (cleaned and changed to efficiently work with), the ticker names were given in seperate workbook, while the data frame has headers ranging from A1 to A20 which have been switched with tickers during data cleaning.   
+
+---
+## Results
+![Alt](./Analysis/stock_weights_plot.png)
+
+---
+![Alt](./Analysis/efficient_frontier.png)
