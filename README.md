@@ -10,3 +10,11 @@ This project aims to implement the Mean-Variance model to construct optimal port
 ---
 ## Results
 
+
+After having imposed the upper bound $k=2$ for each $\mu$, the model found 5 optimal portfolios of 2 assets in three of them and 1 asset in 2 of them. In $\mu_1$ and $\mu_5$, the portfolio consisted only a single asset because the return was fixed even though $k=2$ is introduced, it cannot impact much. The assets selected in each $\mu$ and their corresponding portfolio variance are as follows: 
+- **$\mu_1$**: FNC (Portfolio Variance: 0.0053)
+- **$\mu_2$**: BUL, ENEL (Portfolio Variance: 0.0013)
+- **$\mu_3$**: AL, F (Portfolio Variance: 0.0011)
+- **$\mu_4$**: ENI, ES (Portfolio Variance: 0.0015)
+- **$\mu_5$**: ENI (Portfolio Variance: 0.0044)
+
