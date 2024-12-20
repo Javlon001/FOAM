@@ -25,3 +25,52 @@ After having imposed the upper bound $k=2$ for each $\mu$, the model found 5 opt
 - **$\mu_4$**: ENI, ES (Portfolio Variance: 0.0015)
 - **$\mu_5$**: ENI (Portfolio Variance: 0.0044)
 
+
+
+---
+## List of Stocks used in analysis: 
+
+| Label       | Stock                              |
+|-------------|------------------------------------|
+| AL          | ALLEANZA ASSICURAZIONI            |
+| AGL         | AUTOGRILL SPA                      |
+| AUTO        | AUTOSTRADE SPA                    |
+| NTV         | BANCA ANTONVENETA SPA             |
+| BFI         | BANCA FIDEURAM SPA                |
+| BIN         | BANCA INTESA SPA                  |
+| BPM         | BANCA POPOLARE DI MILANO          |
+| BPVN        | BANCO POPOLARE DI VERONA E NOVARA |
+| BNL         | BANCA NAZIONALE LAVORO-ORD        |
+| BPU         | BANCHE POPOLARI UNITE SCPA        |
+| BUL         | BULGARI SPA                       |
+| CAP         | CAPITALIA SPA                     |
+| EDN         | EDISON SPA                        |
+| ENEL        | ENEL SPA                          |
+| ENI         | ENI SPA                           |
+| FWB         | FASTWEB                           |
+| F           | FIAT SPA                          |
+| FNC         | FINMECCANICA SPA                  |
+| G           | ASSICURAZIONI GENERALI            |
+| ES          | GRUPPO EDITORIALE L'ESPRESSO      |
+| IT          | ITALCEMENTI SPA                   |
+| LTT         | LOTTOMATICA SPA/OLD               |
+| LUX         | LUXOTTICA GROUP SPA               |
+| MS          | MEDIASET SPA                      |
+| MB          | MEDIOBANCA SPA                    |
+| MED         | MEDIOLANUM SPA                    |
+| NM          | ARNOLDO MONDADORI EDITORE         |
+| BMPS        | BANCA MONTE DEI PASCHI SIENA      |
+| PC          | PIRELLI & C.                      |
+| R           | RAS HOLDING SPA                   |
+| RCS         | RCS MEDIAGROUP SPA                |
+| SPM         | SAIPEM                            |
+| SPI         | SANPAOLO IMI SPA                  |
+| PG          | SEAT PAGINE GIALLE                |
+| SRG         | SNAM RETE GAS                     |
+| STM         | STMICROELECTRONICS                |
+| TIT         | TELECOM ITALIA SPA                |
+| TRN         | TERNA SPA                         |
+| TIM         | TIM SPA                           |
+| UC          | UNICREDITO ITALIANO SPA           |
+
+
